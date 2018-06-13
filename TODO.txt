@@ -1,0 +1,16 @@
+[0.0.2]
+- Config file
+	- Application name
+	- Script location
+	- Project Type
+	    - Application [APP]
+	    - Rest Client [REST_CLIENT]
+	- Modules
+	    - Database
+	        - SQLite
+	        - PostgreSQL
+	        - MySQL
+- Add some Unit Tests
+
+[Info]
+https://www.mocky.io/

@@ -1,0 +1,9 @@
+{
+	"name": "dinicloud",
+	"authors": [
+		"Eugene Sakara"
+	],
+	"description": "Use D as scripts language",
+	"copyright": "Copyright © 2018, Eugene Sakara",
+	"license": "MIT"
+}

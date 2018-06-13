@@ -1,0 +1,11 @@
+[0.0.1]
++ Create template of project
++ Generate project from template
++ Select a script through the parameter
++ Integrate a script into a project
++ Correct saving of the project
++ Correct launch of the application
++ Error: unable to complete the application
++ Correct remove project folder
++ Comments support
++ Simple logger

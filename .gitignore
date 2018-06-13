@@ -14,6 +14,15 @@
 # Executables
 *.exe
 
+# Bin files
+dinicloud.so
+dinicloud.dylib
+dinicloud.dll
+dinicloud.a
+dinicloud.lib
+dinicloud-test-*
+dinicloud
+
 # DUB
 .dub
 docs.json
@@ -22,3 +31,11 @@ docs/
 
 # Code coverage
 *.lst
+
+#Idea
+.idea/
+dinicloud.iml
+
+# Custom folders
+project/
+classes/
